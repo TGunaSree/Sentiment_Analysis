@@ -3,7 +3,8 @@
 
 This project performs sentiment analysis on restaurant review data. The goal is to classify customer reviews as positive, negative.
 
-**Features**
+**Features**:
+
 Preprocessing of raw restaurant review text
 Exploratory Data Analysis (EDA) to understand review trends
 Review sentiment classification using machine learning models
