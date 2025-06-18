@@ -1,7 +1,7 @@
 Sentiment Analysis for Restaurant Review Data
 Overview
 
-This project performs sentiment analysis on restaurant review data. The goal is to classify customer reviews as positive, negative, or neutral, providing actionable insights for restaurant owners and helping potential customers make informed decisions.
+This project performs sentiment analysis on restaurant review data. The goal is to classify customer reviews as positive, negative.
 
 Features
 Preprocessing of raw restaurant review text
